@@ -1,0 +1,40 @@
+﻿@model IEnumerable<CHBHTH.Models.PhanQuyen>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Role</h2>
+
+<p>
+    @Html.ActionLink("Create Role", "Create")
+</p>
+<table class="table table-bordered">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.TenQuyen)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.TenQuyen)
+        </td>
+        <td>
+            <button class="btn btn-success">
+                @Html.ActionLink("Edit", "Edit", new { id = item.IDQuyen }, new { @style = "color:white;" })
+            </button>
+            <button class="btn btn-primary">
+                @Html.ActionLink("View", "Details", new { id = item.IDQuyen }, new { @style = "color:white;" })
+            </button>
+            <button class="btn btn-danger">
+                @Html.ActionLink("Delete", "Delete", new { id = item.IDQuyen }, new { @style = "color:white;" })
+            </button>
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,712 @@
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\CHBHTH.dll.config
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\CHBHTH.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\CHBHTH.pdb
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\csc.exe
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\csc.exe.config
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\csc.rsp
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\csi.exe
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\csi.exe.config
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\csi.rsp
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.AppContext.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Console.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Net.Http.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.ValueTuple.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\vbc.exe
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\vbc.exe.config
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\vbc.rsp
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Antlr3.Runtime.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\EntityFramework.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Newtonsoft.Json.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Helpers.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Mvc.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Optimization.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Razor.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.WebPages.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\WebGrease.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\EntityFramework.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Helpers.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Mvc.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Optimization.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.Razor.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.WebPages.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Newtonsoft.Json.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Antlr3.Runtime.pdb
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+E:\BuiNgocDuy\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+E:\BuiNgocDuy\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CopyComplete
+E:\BuiNgocDuy\CHBHTH\CHBHTH\obj\Debug\CHBHTH.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\obj\Debug\CHBHTH.pdb
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\CKFinder.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\CKFinder.pdb
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\PagedList.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\PagedList.Mvc.dll
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\PagedList.xml
+E:\BuiNgocDuy\CHBHTH\CHBHTH\bin\PagedList.Mvc.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\CHBHTH.dll.config
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\CHBHTH.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\CHBHTH.pdb
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\csc.exe
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\csc.exe.config
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\csc.rsp
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\csi.exe
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\csi.exe.config
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\csi.rsp
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.AppContext.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Console.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Net.Http.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.ValueTuple.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\vbc.exe
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\vbc.exe.config
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\vbc.rsp
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Antlr3.Runtime.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\CKFinder.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\EntityFramework.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Newtonsoft.Json.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\PagedList.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\PagedList.Mvc.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Helpers.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Mvc.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Optimization.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Razor.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.WebPages.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\WebGrease.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\CKFinder.pdb
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\EntityFramework.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\PagedList.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\PagedList.Mvc.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Helpers.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Mvc.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Optimization.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.Razor.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.WebPages.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Newtonsoft.Json.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Antlr3.Runtime.pdb
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CopyComplete
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\obj\Debug\CHBHTH.dll
+D:\CSDLPhanTan\CHBHTH\CHBHTH\CHBHTH\obj\Debug\CHBHTH.pdb
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\CHBHTH.dll.config
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\CHBHTH.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\CHBHTH.pdb
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\csc.exe
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\csc.exe.config
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\csc.rsp
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\csi.exe
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\csi.exe.config
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\csi.rsp
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.AppContext.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Console.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Net.Http.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.ValueTuple.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\vbc.exe
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\vbc.exe.config
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\vbc.rsp
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Antlr3.Runtime.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\CKFinder.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\EntityFramework.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Newtonsoft.Json.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\PagedList.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\PagedList.Mvc.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Helpers.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Mvc.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Optimization.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Razor.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.WebPages.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\WebGrease.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\CKFinder.pdb
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\EntityFramework.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\PagedList.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\PagedList.Mvc.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Helpers.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Mvc.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Optimization.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.Razor.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.WebPages.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Newtonsoft.Json.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Antlr3.Runtime.pdb
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CopyComplete
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\obj\Debug\CHBHTH.dll
+D:\23_24_HK1\New folder\CHBHTH\CHBHTH\obj\Debug\CHBHTH.pdb
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.dll.config
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.pdb
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.exe
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.exe.config
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.rsp
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.exe
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.exe.config
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.rsp
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.AppContext.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Console.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Net.Http.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.ValueTuple.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.exe
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.exe.config
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.rsp
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Antlr3.Runtime.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CKFinder.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Newtonsoft.Json.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.Mvc.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Helpers.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Mvc.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Optimization.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Razor.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\WebGrease.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CKFinder.pdb
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.Mvc.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Helpers.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Mvc.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Optimization.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Razor.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Newtonsoft.Json.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Antlr3.Runtime.pdb
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.Up2Date
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.dll
+E:\Programs\asp.net\cuahangbanhoa asp\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.pdb
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.dll.config
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.pdb
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.exe
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.exe.config
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.rsp
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.exe
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.exe.config
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.rsp
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.AppContext.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Console.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Net.Http.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.ValueTuple.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.exe
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.exe.config
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.rsp
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Antlr3.Runtime.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CKFinder.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Newtonsoft.Json.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.Mvc.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Helpers.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Mvc.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Optimization.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Razor.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\WebGrease.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CKFinder.pdb
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.Mvc.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Helpers.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Mvc.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Optimization.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Razor.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Newtonsoft.Json.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Antlr3.Runtime.pdb
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.Up2Date
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.dll
+C:\Users\tuand\Downloads\aaaaa\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.pdb
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.dll.config
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CHBHTH.pdb
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.exe
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.exe.config
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csc.rsp
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.exe
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.exe.config
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\csi.rsp
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.AppContext.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Console.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Net.Http.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.ValueTuple.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.exe
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.exe.config
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\vbc.rsp
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Antlr3.Runtime.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CKFinder.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Newtonsoft.Json.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.Mvc.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Helpers.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Mvc.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Optimization.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Razor.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\WebGrease.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\CKFinder.pdb
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\EntityFramework.SqlServer.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\PagedList.Mvc.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Helpers.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Mvc.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Optimization.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.Razor.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\System.Web.WebPages.Razor.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Newtonsoft.Json.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Antlr3.Runtime.pdb
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.csproj.Up2Date
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.dll
+D:\cuahangbanhoa asp\CHBHTH\CHBHTH\obj\Debug\CHBHTH.pdb
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\CHBHTH.dll.config
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\CHBHTH.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\CHBHTH.pdb
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\CKFinder.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\PagedList.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\WebGrease.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\CKFinder.pdb
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\PagedList.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.csproj.CopyComplete
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.dll
+C:\Users\Admin\Downloads\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.pdb
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\CHBHTH.dll.config
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\CHBHTH.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\CHBHTH.pdb
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csc.exe
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csc.exe.config
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csc.rsp
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csi.exe
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csi.exe.config
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\csi.rsp
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.AppContext.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Collections.Immutable.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Console.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Globalization.Calendars.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.Compression.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.FileSystem.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Net.Http.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Net.Sockets.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.ValueTuple.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.XPath.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\vbc.exe
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\vbc.exe.config
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\vbc.rsp
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\VBCSCompiler.exe
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\roslyn\VBCSCompiler.exe.config
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Antlr3.Runtime.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\CKFinder.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.SqlServer.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Microsoft.Web.Infrastructure.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Newtonsoft.Json.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\PagedList.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\PagedList.Mvc.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Helpers.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Mvc.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Optimization.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Razor.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Deployment.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Razor.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\WebGrease.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\CKFinder.pdb
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\EntityFramework.SqlServer.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\PagedList.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\PagedList.Mvc.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Helpers.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Mvc.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Optimization.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.Razor.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Deployment.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\System.Web.WebPages.Razor.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Newtonsoft.Json.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Antlr3.Runtime.pdb
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.csproj.AssemblyReference.cache
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.csproj.CoreCompileInputs.cache
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.csproj.CopyComplete
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.dll
+E:\Web ASP.net\Web ASP.net\CHBB\CHBHTH\obj\Debug\CHBHTH.pdb

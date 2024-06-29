@@ -1,0 +1,80 @@
+﻿@model CHBHTH.Models.DonHang
+
+@{
+    ViewBag.Title = "ThanhToanDonHang";
+    Layout = "~/Views/Shared/_LayoutClient2.cshtml";
+}
+
+<center>
+    <h2>Payment Page</h2>
+
+    @using (Html.BeginForm("DatHang", "GioHang", new { @class = "" }))
+    {
+        @Html.AntiForgeryToken()
+
+<div class="form-horizontal">
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.MaDon)
+
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Checker's name </b></div>
+        <div class="col-md-9">
+            @Html.DropDownList("MaNguoidung", null, htmlAttributes: new { @class = "form-control", @readonly = "readonly", Enabled = "False", @disabled = "disabled" })
+            @Html.ValidationMessageFor(model => model.MaNguoiDung, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Order date</b></div>
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.NgayDat, new { htmlAttributes = new { @class = "form-control", @readonly = "readonly" } })
+            @Html.ValidationMessageFor(model => model.NgayDat, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Total payment </b></div>
+
+        <div class="col-md-9">
+            <h3 class="text-danger"> @String.Format("{0:0,0}", @ViewBag.tongtien) VNĐ </h3>
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Delivery address</b></div>
+        <div class="col-md-9">
+            @Html.EditorFor(model => model.DiaChiNhanHang, new { htmlAttributes = new { @class = "form-control" } })
+            @Html.ValidationMessageFor(model => model.DiaChiNhanHang, "", new { @class = "text-danger" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Payment methods  </b></div>
+
+        <div class="col-md-9">
+            @Html.DropDownList("MaTT", null, htmlAttributes: new { @class = "form-control" })
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="control-label col-md-3 Bold"> <b> 	Note  </b></div>
+
+        <div class="col-md-9 text-danger">
+            - For cash payments. The product is delivered to you, you check the product and then pay the shipping staff.
+            <br />
+            - For transfer payments:
+            Please transfer money to account: 1234567890. Account owner: LaLa - KhoaBank
+            <br />
+            - Fill in the transfer information according to the form: Full name, phone number, payment to buy GYMGEAR
+        </div>
+    </div>
+    <br />
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" value="Order Now" class="btn btn-primary" />
+        </div>
+    </div> <br />
+</div>
+    }
+</center>

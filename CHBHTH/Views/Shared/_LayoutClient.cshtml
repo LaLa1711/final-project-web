@@ -1,0 +1,108 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title - My ASP.NET Application</title>
+        <link href="/Home/css/styles.css" rel="stylesheet" />
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+        <link href="~/css/styles.css" rel="stylesheet" />
+        @Styles.Render("~/Content/css")
+        @Scripts.Render("~/bundles/modernizr")
+
+    </head>
+    <body>
+        @{ var u = Session["use"] as CHBHTH.Models.TaiKhoan; }
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+            <div class="container">
+                @Html.ActionLink("GYMGEAR", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"> </span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item mx-0 mx-lg-1"> @Html.ActionLink("About Us", "About", "Home", new { area = "" }, new { @class = "nav-link py-3 px-0 px-lg-3 rounded" }) </li>
+                        <li class="nav-item mx-0 mx-lg-1 dropdown">@Html.ActionLink("Product", "index", "sanpham", new { area = "" }, new { @class = "nav-link py-3 px-0 px-lg-3 rounded" }) </li>
+                    </ul>
+
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item mx-0 mx-lg-1">  @Html.Action("GioHangPartial", "GioHang", new { @class = "giohang" }) </li>
+                    </ul>
+
+                    <ul class="navbar-nav ms-auto ">
+                        @{ if (u != null)
+                            {
+                                <li class="nav-item mx-0 mx-lg-1">
+                                    <a style="color:white" href="@Url.Action("Profile", "User", new { id = u.MaNguoiDung  })"> Hi: @u.Email</a>
+                                    <br />
+                                    <a style="color:red" href="/User/DangXuat"> Log Out</a>
+                                </li>
+
+                            }
+                            else
+                            {
+                                <td class="nav-item mx-0 mx-lg-1"> @Html.ActionLink("Login", "Dangnhap", "User", new { area = "" }, new { @class = "nav-link py-3 px-0 px-lg-3 rounded" }) </td>
+
+                            } }
+                    </ul>
+                </div>
+          </div>
+                </nav>
+                <div class="container body-content">
+                    @RenderBody()
+                    <hr />
+                </div>
+
+                @Scripts.Render("~/bundles/jquery")
+                @Scripts.Render("~/bundles/bootstrap")
+                @RenderSection("scripts", required: false)
+            </body>
+
+            <!-- Footer-->
+    <footer class="text-bg-success" style="padding-left:50px">
+        <div class="row">
+            <div class="col-md-4 col-sm-6">
+                <h3>GYMGEAR INTRODUCTION</h3>
+                <span>Company Introduction</span>
+                <br />
+                <span>Shop System</span>
+                <br />
+                <span>Employment Information</span>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <h3>CUSTOMER SUPPORT</h3>
+                <span>Payment Guide</span>
+                <br />
+                <span>Customer Policy</span>
+                <br />
+                <span>Return and Refund Policy</span>
+            </div>
+            <div class="col-md-4 col-sm-6">
+                <h3>Let Us Help You</h3>
+                <span>Blogs</span>
+                <br />
+                <span>Contact: 0123456789</span>
+                <br />
+                <span>Email: Gymgear@gmail.com</span>
+            </div>
+        </div>
+        <hr />
+        <div class="copyright py-4 text-center text-white">
+            <div class="container"><small>Copyright &copy; 2024 GYMGEAR. All rights reserved. </small></div>
+        </div>
+    </footer>
+
+            <script src="~/Content/ckeditor/ckfinder/ckfinder.js"></script>
+
+            <script src="~/Content/ckeditor/ckeditor.js"></script>
+
+            <script src="~/Content/ckeditor/adapters/jquery.js"></script>
+            <script>
+            </script>
+
+            @RenderSection("DoanJS", false)
+ </html>

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\cuahangbanhoa asp\\CHBHTH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\giohang\\thanhtoandonhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\sanpham\\raupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\raupartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\sanpham\\dauanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\dauanpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\sanpham\\suapartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\sanpham\\suapartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\shared\\_layoutclient2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|d:\\cuahangbanhoa asp\\chbhth\\chbhth\\views\\shared\\_layoutclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{617EC3CF-AD6E-454D-AFD7-CD2C748D871C}|CHBHTH\\CHBHTH.csproj|solutionrelative:chbhth\\views\\shared\\_layoutclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThanhToanDonHang.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\GioHang\\ThanhToanDonHang.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:42:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "raupartial.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\raupartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:32:28.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dauanpartial.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\dauanpartial.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:31:54.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "suapartial.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\sanpham\\suapartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:31:11.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAC0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:30:21.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:28:28.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:28:03.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutClient.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Shared\\_LayoutClient.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Shared\\_LayoutClient.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Shared\\_LayoutClient.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Shared\\_LayoutClient.cshtml",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAHUAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:26:32.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutClient2.cshtml",
+              "DocumentMoniker": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "RelativeDocumentMoniker": "CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "ToolTip": "D:\\cuahangbanhoa asp\\CHBHTH\\CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "RelativeToolTip": "CHBHTH\\Views\\Shared\\_LayoutClient2.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T14:24:33.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+﻿@model CHBHTH.Models.DonHang
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>Order Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TaiKhoan.HoTen)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TaiKhoan.HoTen)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NgayDat)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NgayDat)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TongTien)
+        </dt>
+
+        <dd>
+            @{
+                if (Model.TinhTrang == 0)
+                {
+                    <div style="color:red">Unconfirmed</div>
+                }
+                else if (Model.TinhTrang == 1)
+                {
+
+
+                    <div style="color:slateblue">confirmed</div>
+
+                }
+                else
+                {
+                    <div style="color:red">Unconfirmed</div>
+
+                }
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ThanhToan)
+        </dt>
+
+        <dd>
+            @{
+                if (Model.ThanhToan == 1)
+                {
+                    <div style="color:red">Payment in cash</div>
+                }
+                else if (Model.ThanhToan == 2)
+                {
+                    <div style="color:slateblue">Payment by bank transfer</div>
+
+                }
+            }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DiaChiNhanHang)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DiaChiNhanHang)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TongTien)
+        </dt>
+
+        <dd>
+            @String.Format("{0:0,0}", Model.TongTien) VNĐ
+        </dd>
+    </dl>
+    @Html.Action("CTDetails", "DonHangs")
+</div>
+<button class="btn btn-info">
+    @Html.ActionLink("Order Confirmation", "Xacnhan", new { id = Model.MaDon }, new { @style = "color:white;" })
+</button>
+<br />
+<br />
+<button class="btn btn-success">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MaDon }, new { @style = "color:white;" })
+</button>
+
+@*
+<button class="btn btn-danger">
+    @Html.ActionLink("Xóa", "Delete", new { id = Model.MaDon }, new { @style = "color:white;" })
+</button>*@
+<br />
+<br />
+<p>
+    @Html.ActionLink("Back", "Index")
+</p>

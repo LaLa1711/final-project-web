@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CHBHTH.Models.ChiTietDonHang>
+@{
+    ViewBag.Title = "CTDetails";
+}
+
+<center>
+    <h2>Product Details</h2>
+
+    <table class="table table-bordered">
+        <tr>
+            <th>
+                Product
+            </th>
+            <th>
+                Quantity
+            </th>
+            <th>
+                Unit Price/Product
+            </th>
+            <th>
+                Total
+            </th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SanPham.TenSP)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SoLuong)
+                </td>
+                <td>
+                    @String.Format("{0:0,0}", item.DonGia) VNĐ
+                </td>
+                <td>
+                    @String.Format("{0:0,0}", item.ThanhTien) VNĐ
+                </td>
+            </tr>
+
+        }
+
+    </table>
+</center>
+<br />
