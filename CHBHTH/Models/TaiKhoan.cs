@@ -16,36 +16,36 @@
         }
 
         [Key]
-        [Display(Name = "Mã người dùng")]
+        [Display(Name = "ID")]
         public int MaNguoiDung { get; set; }
 
-        [Display(Name = "Họ & tên")]
-        [StringLength(50, MinimumLength = 5, ErrorMessage = "Họ tên phải từ 5-50 ký tự")]
+        [Display(Name = "Name")]
+        [StringLength(50, MinimumLength = 5, ErrorMessage = "Full name must be 5-50 characters")]
         [Required]
         public string HoTen { get; set; }
 
         [Display(Name = "Email")]
         [StringLength(50)]
         [Required]
-        [EmailAddress(ErrorMessage = "Bạn phải điền email hợp lệ")]
+        [EmailAddress(ErrorMessage = "You must enter a valid email")]
         public string Email { get; set; }
 
-        [Display(Name = "Số điện thoại")]
+        [Display(Name = "Phone")]
         [StringLength(50)]
         [Required]
         [Phone]
         public string Dienthoai { get; set; }
 
-        [Display(Name = "Mật khẩu")]
-        [StringLength(50, MinimumLength = 5, ErrorMessage = "Mật khẩu phải từ 5-50 ký tự")]
+        [Display(Name = "Password")]
+        [StringLength(50, MinimumLength = 5, ErrorMessage = "Password must be 5-50 characters")]
         [Required]
         public string Matkhau { get; set; }
 
-        [Display(Name = "ID quyền")]
+        [Display(Name = "ID Role")]
         public int? IDQuyen { get; set; }
 
-        [Display(Name = "Địa chỉ")]
-        [StringLength(200, MinimumLength = 5, ErrorMessage = "Địa chỉ phải từ 5-200 ký tự")]
+        [Display(Name = "Address")]
+        [StringLength(200, MinimumLength = 5, ErrorMessage = "Address must be 5-200 characters")]
         [Required]
         public string Diachi { get; set; }
 

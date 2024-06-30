@@ -19,7 +19,6 @@ namespace CHBHTH.Models
         public virtual DbSet<PhanQuyen> PhanQuyens { get; set; }
         public virtual DbSet<SanPham> SanPhams { get; set; }
         public virtual DbSet<TaiKhoan> TaiKhoans { get; set; }
-        public virtual DbSet<TinTuc> TinTucs { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {

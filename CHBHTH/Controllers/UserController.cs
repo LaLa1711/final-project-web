@@ -69,7 +69,7 @@ namespace CHBHTH.Controllers
 
             if (islogin != null)
             {
-                if (userMail == "Admin@gmail.com")
+                if (userMail == "taicq21@uef.edu.vn")
                 {
                     Session["use"] = islogin;
                     return RedirectToAction("Index", "Admin/Home");

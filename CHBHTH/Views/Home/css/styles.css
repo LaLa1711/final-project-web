@@ -3754,6 +3754,12 @@ textarea.form-control-lg {
   justify-content: space-between;
   padding: var(--bs-navbar-padding-y) var(--bs-navbar-padding-x);
 }
+
+
+
+
+
+
 .navbar > .container,
 .navbar > .container-fluid,
 .navbar > .container-sm,
@@ -6664,11 +6670,16 @@ textarea.form-control-lg {
   color: #fff !important;
   background-color: RGBA(44, 62, 80, var(--bs-bg-opacity, 1)) !important;
 }
-
+/*
 .text-bg-success {
   color: #fff !important;
   background-color: RGBA(25, 135, 84, var(--bs-bg-opacity, 1)) !important;
+}*/
+.text-bg-success {
+    color: #fff !important;
+    background-color: RGBA(0, 0, 0, var(--bs-bg-opacity, 1)) !important;
 }
+
 
 .text-bg-info {
   color: #000 !important;
@@ -11037,7 +11048,7 @@ html {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2c3e50;
+  background-color: blue;
   color: #fff;
 }
 
