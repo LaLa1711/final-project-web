@@ -10120,6 +10120,7 @@ body {
   flex-direction: column;
   height: 100%;
   flex-wrap: nowrap;
+  width: 160px;
 }
 .sb-sidenav .sb-sidenav-menu {
   flex-grow: 1;
@@ -10162,7 +10163,7 @@ body {
 }
 
 .sb-sidenav-dark {
-  background-color: #212529;
+  background-color: #213133;
   color: rgba(255, 255, 255, 0.5);
 }
 .sb-sidenav-dark .sb-sidenav-menu .sb-sidenav-menu-heading {

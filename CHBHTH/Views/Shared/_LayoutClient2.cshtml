@@ -24,15 +24,15 @@
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0 ms-lg-4">
-                        <li class="nav-item"> @Html.ActionLink("Home Page", "Index", "Home", new { area = "" }, new { @class = "nav-link activ" })</li>
-                        <li class="nav-item"> @Html.ActionLink("About Us", "About", "Home", new { area = "" }, new { @class = "nav-link activ" })</li>
+                        <li class="nav-item"> @Html.ActionLink("Home Page", "Index", "Home", new { area = "" }, new { @class = "nav-link activ", style = "font-weight: bold;" })</li>
+                        <li class="nav-item"> @Html.ActionLink("About Us", "About", "Home", new { area = "" }, new { @class = "nav-link activ", style = "font-weight: bold;" })</li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Product Portfolio </a>
+                            <a class="nav-link dropdown-toggle" style = "font-weight: bold; id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"> Product Portfolio </a>
                             <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                <li> @Html.ActionLink("Product Portfolio", "index", "sanpham", new { area = "" }, new { @class = "dropdown-item" }) </li>
+                                <li> @Html.ActionLink("Product Portfolio", "index", "sanpham", new { area = "" }, new { @class = "dropdown-item", style = "font-weight: bold;" }) </li>
 
                                 <li><hr class="dropdown-divider" /></li>
-                                <li> @Html.Action("danhmucpartial", "danhmuc", new { @class = "dropdown-item" }) </li>
+                                <li> @Html.Action("danhmucpartial", "danhmuc", new { @class = "dropdown-item", style = "font-weight: bold;" }) </li>
                             </ul>
                         </li>
                     </ul>
@@ -44,14 +44,14 @@
                             @{ if (u != null)
                                 {
                                     <li class="nav-item mx-0 mx-lg-1">
-                                        <a style="color:black" href="@Url.Action("Profile", "User", new { id = u.MaNguoiDung  })"> Hi: @u.Email</a>
+                                        <a style="color:black" href="@Url.Action("Profile", "User", new { id = u.MaNguoiDung  })"> @u.Email</a>
                                         <br />
                                         <a style="color:red" href="/User/DangXuat"> Log out</a>
                                     </li>
                                 }
                                 else
                                 {
-                                    <td class="nav-item mx-0 mx-lg-1"> @Html.ActionLink("Login", "Dangnhap", "User", new { area = "" }, new { @class = "nav-link py-3 px-0 px-lg-3 rounded" }) </td>
+                                    <td class="nav-item mx-0 mx-lg-1"> @Html.ActionLink("Login", "Dangnhap", "User", new { area = "" }, new { @class = "nav-link py-3 px-0 px-lg-3 rounded", style = "font-weight: bold;" }) </td>
 
                                 } }
                         </ul>
